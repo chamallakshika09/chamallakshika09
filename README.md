@@ -20,7 +20,7 @@ I'm a Tech Lead that enjoy making projects work well and look great. My job is l
 
 Explore my collection of articles on various topics. Enjoy reading and learning!
 
-- [Bringing 3D to Life: Integrating Three.js with React, Redux and MUI](<[path-to-article-1.md](https://chamallakshika09.medium.com/bringing-3d-to-life-integrating-three-js-with-react-redux-and-mui-6471bd41e475)>) - Explore the future of web design in three dimensions with Three.js, React, Redux, and Material-UI. Discover the synergy between these technologies through hands-on examples from my GitHub repository. Unleash your creativity and embrace the dynamic world of 3D web design
+- [Bringing 3D to Life: Integrating Three.js with React, Redux and MUI](https://chamallakshika09.medium.com/bringing-3d-to-life-integrating-three-js-with-react-redux-and-mui-6471bd41e475) - Explore the future of web design in three dimensions with Three.js, React, Redux, and Material-UI. Discover the synergy between these technologies through hands-on examples from my GitHub repository. Unleash your creativity and embrace the dynamic world of 3D web design
 - [Implementing a Robust Undo/Redo Mechanism in a 3D Application with Redux](https://chamallakshika09.medium.com/implementing-a-robust-undo-redo-mechanism-in-a-3d-application-with-redux-3d1e35b84bdd) - Discover how to implement a sophisticated Undo/Redo mechanism in a 3D application using Redux, React, and Three.js. Enhance user interactivity and learn how to seamlessly handle state reversals in your 3D projects with this comprehensive guide
 
 ### ⚙️ Tech Stack
