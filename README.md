@@ -34,7 +34,7 @@ I'm a Tech Lead that enjoy making projects work well and look great. My job is l
   _Technologies:_ React.js, Electron.js, Redux, AWS, Material UI, Javascript, HTML, CSS, Python.
 
 - **DBF Sync Revit Plugin:** A specialized plugin for Revit, designed to synchronize data between DBF apps and Revit seamlessly. It optimizes architectural workflows and project efficiency.
-  _Technologies:_ React.js, Electron.js, Redux, AWS, Material UI, Javascript, HTML, CSS, Python.
+  _Technologies:_ C#, Revit API.
 
 - **House Masterplanning Tool:** An online platform to enhance workflow efficiency for prefabricated house design and approval in the AEC sector. It bolsters collaboration and project management in housing.
   _Technologies:_ React.js, Node.js, Redux, MongoDB, Express.js, Three.js, AWS, Material UI, Javascript, HTML, CSS, P5.js.
