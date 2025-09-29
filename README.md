@@ -95,6 +95,27 @@ Explore my collection of Articles & Publications on various topics. Enjoy readin
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chamallakshika09&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
+
+### 🏢 Work GitHub Activity (Smaply)
+
+> These cards visualize my activity on my work account: [@chamal-smaply](https://github.com/chamal-smaply)
+
+<!-- Work contribution graph -->
+[![Work Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamal-smaply&area=true&hide_border=true&radius=8&theme=github-dark)](https://github.com/chamal-smaply)
+
+<!-- Work stats & languages (same style as your personal cards) -->
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chamal-smaply&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chamal-smaply&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<!-- Optional: Work streaks -->
+<p align="left">
+  <img height="180em" src="https://streak-stats.demolab.com?user=chamal-smaply&theme=algolia&hide_border=true"/>
+</p>
+
+
+
 ### 🌍 Find Me
 
 - 🌐 [Portfolio](https://chamallakshika09.github.io/)
